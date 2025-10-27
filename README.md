@@ -3,13 +3,13 @@
 </p>-->
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h4 align="center">Gameplay Programmer (Unity/C#, Unreal/C++/BPs) </h4>
+<h3 align="center">Gameplay Programmer (Unity/C#, Unreal/C++/BPs) </h3>
 
-Passionate Gameplay Programmer with a Computer Science background, focused on creating fun and responsive gameplay experiences using Unity and Unreal Engine.
+Gameplay Programmer with a Computer Science background | Seeking entry-level opportunities in the game industry to grow and contribute <!-- , focused on creating fun and responsive gameplay experiences using Unity and Unreal Engine.-->
 
 
 #### 🎮 About Me
-- Finishing my <b>MSc in Computer Science's Degree</b> and seeking entry-level opportunities in the game industry
+- Finishing my <b>MSc in Computer Science's Degree</b>
 - Experienced in <b> Unity Engine  </b> and <b> C#/.NET </b>
   - Led a 4-person team of programmers and artists to develop and publish a full Unity game selected for an Argentinian Government Game Jam mentorship. Initially built for Web, later refactored and ported to Android. [Enteneo - Try it here!](https://racmoonstudios.itch.io/enteneo)
 - Currently learning <b>Unreal Engine (C++ & Blueprints)</b> ~ **[UE5-Udemy-Course](https://github.com/lmalvarez13/UE5-Gamedev.tv-Course)** 
