@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://your-link/banner.gif" alt="Banner" width="100%">
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h4 align="center">Gameplay Programmer (Unity/C#, Unreal/C++/BPs) </h4>
