@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Gameplay Programmer (Unity/C#, Unreal/C++/BPs) </h3>
 
-Gameplay Programmer with a background in Computer Science | Seeking entry-level opportunities in the game industry  <!-- , focused on creating fun and responsive gameplay experiences using Unity and Unreal Engine.-->
+Game Developer with a background in Computer Science | Seeking entry-level opportunities in the game industry  <!-- , focused on creating fun and responsive gameplay experiences using Unity and Unreal Engine.-->
 
 
 #### 🎮 About Me
